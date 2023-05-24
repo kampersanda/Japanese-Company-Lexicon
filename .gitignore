@@ -12,7 +12,7 @@ data/*
 ### notebooks ###
 notebooks/*
 
-### Logs ### 
+### Logs ###
 tmp/
 
 ### Other package ###
@@ -88,3 +88,5 @@ target/
 
 # ignore checkpoints file
 .pth
+
+venv
